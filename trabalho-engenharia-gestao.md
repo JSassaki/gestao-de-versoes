@@ -14,6 +14,12 @@
 
 ![alt text][3]
 
+## 4. Adicionando soma()
+
+![alt text][4]
+
 
 [2]: 2.jpg "Segundo Exercício"
 [3]: 3.jpg "Adicionando String A3"
+[3]: 4.jpg "Adicionando soma()"
+
