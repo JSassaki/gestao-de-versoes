@@ -2,6 +2,7 @@ class A {
   private int A1;
   private float A2;
   private String A3;
+  private String A4;
 
   public int getA1() {
     return A1;
@@ -29,6 +30,14 @@ class A {
 
   public float soma(){
     return this.A1 + this.A2;
+  }
+
+  public String getA4(){
+    return A4;
+  }
+  
+  public void setA4(String A3){
+    this.A4 = A4;
   }
   
 }
