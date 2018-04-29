@@ -7,9 +7,13 @@
 * Integrado com Eclipse, Visual Studio, Xcode, Atom.io e outros
 
 ## 2. Primeiro commit
-git push origin master
+
 ![alt text][2]
 
 ## 3. Adicionando String A3
 
+![alt text][3]
+
+
 [2]: 2.jpg "Segundo Exercício"
+[3]: 3.jpg "Adicionando String A3"
