@@ -7,7 +7,9 @@
 * Integrado com Eclipse, Visual Studio, Xcode, Atom.io e outros
 
 ## 2. Primeiro commit
-Reference-style: 
+git push origin master
 ![alt text][2]
 
-[2]: C:\Users\jorge\Documents\Trabalho Gestao ESII\2.jpg "Segundo Exercício"
+## 3. Adicionando String A3
+
+[2]: 2.jpg "Segundo Exercício"
