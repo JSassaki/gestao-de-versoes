@@ -27,10 +27,16 @@
 ![alt text][6-1]
 ![alt-text][6-2]
 
+## 7. adicionando A4 no mestre
+
+![alt text][7-1]
+![alt-text][7-2]
+
 [2]: 2.jpg "Segundo Exercício"
 [3]: 3.jpg "Adicionando String A3"
 [4]: 4.jpg "Adicionando soma()"
 [5]: 5.jpg "Adicionando v1.1"
 [6-1]: 6-1.jpg "branch 6-1"
 [6-2]: 6-2.jpg  "branch 6-2"
-
+[7-1]: 6-1.jpg "branch 6-1"
+[7-2]: 6-2.jpg  "branch 6-2"
