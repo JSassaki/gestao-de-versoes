@@ -26,4 +26,5 @@ class A {
   public void setA3(String A3){
     this.A3 = A3;
   }
+  
 }
