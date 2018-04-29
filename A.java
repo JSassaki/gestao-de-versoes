@@ -16,7 +16,7 @@ class A {
   }
    
   public void setA2(float A2) {
-    this.A2 = A2;
+        this.A2 = A2;
   }
 
   public String getA3(){
