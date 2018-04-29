@@ -18,8 +18,13 @@
 
 ![alt text][4]
 
+## 5. Tag v1.1
+
+![alt text][5]
+
 
 [2]: 2.jpg "Segundo Exercício"
 [3]: 3.jpg "Adicionando String A3"
-[3]: 4.jpg "Adicionando soma()"
+[4]: 4.jpg "Adicionando soma()"
+[5]: 5.jpg "Adicionando v1.1"
 
